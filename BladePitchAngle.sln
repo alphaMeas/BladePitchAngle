@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BladePitchAngle", "BladePitchAngle\BladePitchAngle.csproj", "{62457D98-4CC8-4C0F-82AA-CF0958F86AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BewisAngleSensor", "BewisAngleSensor\BewisAngleSensor.csproj", "{C3C6FD35-F4DB-44D5-8DB0-7195C968CE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMCLaserSensor", "LMCLaserSensor\LMCLaserSensor.csproj", "{11702B4A-A991-4215-839E-3E0D7B04C338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BladeAlphaMeasApp", "WindowsFormsApplication1\BladeAlphaMeasApp.csproj", "{143EE2A5-FE0A-46DA-AA17-2C4B7CF019F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62457D98-4CC8-4C0F-82AA-CF0958F86AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62457D98-4CC8-4C0F-82AA-CF0958F86AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62457D98-4CC8-4C0F-82AA-CF0958F86AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62457D98-4CC8-4C0F-82AA-CF0958F86AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C6FD35-F4DB-44D5-8DB0-7195C968CE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C6FD35-F4DB-44D5-8DB0-7195C968CE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C6FD35-F4DB-44D5-8DB0-7195C968CE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C6FD35-F4DB-44D5-8DB0-7195C968CE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11702B4A-A991-4215-839E-3E0D7B04C338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11702B4A-A991-4215-839E-3E0D7B04C338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11702B4A-A991-4215-839E-3E0D7B04C338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11702B4A-A991-4215-839E-3E0D7B04C338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143EE2A5-FE0A-46DA-AA17-2C4B7CF019F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143EE2A5-FE0A-46DA-AA17-2C4B7CF019F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143EE2A5-FE0A-46DA-AA17-2C4B7CF019F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143EE2A5-FE0A-46DA-AA17-2C4B7CF019F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1C42D92-00EF-455F-BC02-0D9C497BC542}
+	EndGlobalSection
+EndGlobal
